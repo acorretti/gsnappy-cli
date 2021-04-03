@@ -1,4 +1,6 @@
 # gsnappy-cli
+[![Go Report Card](https://goreportcard.com/badge/github.com/acorretti/gsnappy-cli)](https://goreportcard.com/report/github.com/acorretti/gsnappy-cli)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Go CLI utility for [Golang's Snappy](github.com/golang/snappy) compression/decompression **block** format. File and *stdio* capable.
 
