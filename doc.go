@@ -8,6 +8,10 @@ format. File and stdio capable.
 
 Compatible with Google C++, Xerial Java and snappyjs JavaScript implementations.
 
+Install
+
+	go install github.com/acorretti/gsnappy-cli/cmd/gsnappy@latest
+
 Usage
 
 Print a usage overview with `gsnappy help`

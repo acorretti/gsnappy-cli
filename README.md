@@ -11,7 +11,7 @@ Compatible with [Google](https://github.com/google/snappy) C++, [Xerial](https:/
 ### Install
 
 ```
-go get github.com/acorretti/gsnappy-cli
+go install github.com/acorretti/gsnappy-cli/cmd/gsnappy@latest
 ```
 
 ### Usage
