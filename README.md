@@ -1,4 +1,5 @@
 # gsnappy-cli
+[![Go Reference](https://pkg.go.dev/badge/github.com/acorretti/gsnappy-cli.svg)](https://pkg.go.dev/github.com/acorretti/gsnappy-cli)
 [![Go Report Card](https://goreportcard.com/badge/github.com/acorretti/gsnappy-cli)](https://goreportcard.com/report/github.com/acorretti/gsnappy-cli)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub release](https://img.shields.io/github/release/acorretti/gsnappy-cli.svg)](https://github.com/acorretti/gsnappy-cli/releases/)
